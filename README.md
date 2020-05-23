@@ -5,3 +5,5 @@
 To clon this repository:
     
     git clone https://github.com/DFRLab/DataFestTbilisi.git
+
+---
